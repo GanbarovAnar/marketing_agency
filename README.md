@@ -1,3 +1,9 @@
+Доделать:
+ - убрать регистрацию
+ - логику в контроллеры вынести
+ - сгруппировать роутеры, где нужна авторизация
+ - убрать (отключить) возможность удаления задач.
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
