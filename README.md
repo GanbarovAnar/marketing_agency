@@ -1,9 +1,9 @@
-Как запустить :
-1 - Скопировать .env.example и назвать копию .env
-2 - в .env вставить учетные данные вашей базы данных
-3 - выполнить " composer install "
-4 - выполнить " php artisan key:generate "
-5 - выполнить " php artisan migrate "
+Как запустить : <br>
+1 - Скопировать .env.example и назвать копию .env <br>
+2 - в .env вставить учетные данные вашей базы данных <br>
+3 - выполнить " composer install " <br>
+4 - выполнить " php artisan key:generate " <br>
+5 - выполнить " php artisan migrate " <br>
 
 Доделать:
  - убрать регистрацию
