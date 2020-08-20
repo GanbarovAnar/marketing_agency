@@ -1,8 +1,17 @@
+Как запустить :
+1 - Скопировать .env.example и назвать копию .env
+2 - в .env вставить учетные данные вашей базы данных
+3 - выполнить " composer install "
+4 - выполнить " php artisan key:generate "
+5 - выполнить " php artisan migrate "
+
 Доделать:
  - убрать регистрацию
  - логику в контроллеры вынести
  - сгруппировать роутеры, где нужна авторизация
  - убрать (отключить) возможность удаления задач.
+ 
+ 
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
