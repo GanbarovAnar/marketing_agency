@@ -41,14 +41,14 @@
                     <div>{{ $task->message }}</div>
                 </td>
 
-                <td>
-                    <form action="/task/{{ $task->id }}" method="POST">
-                        {{ csrf_field() }}
-                        {{ method_field('DELETE') }}
+{{--                <td>--}}
+{{--                    <form action="/task/{{ $task->id }}" method="POST">--}}
+{{--                        {{ csrf_field() }}--}}
+{{--                        {{ method_field('DELETE') }}--}}
 
-                        <button>Удалить заявку</button>
-                    </form>
-                </td>
+{{--                        <button>Удалить заявку</button>--}}
+{{--                    </form>--}}
+{{--                </td>--}}
             </tr>
         @endforeach
 
